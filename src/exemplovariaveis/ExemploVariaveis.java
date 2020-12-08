@@ -33,7 +33,7 @@ media=(x+y)/2;
 if(media>=7)
     System.out.println("Você foi aprovado!");
 else
-    System.out.println("Você se fudeu!!");
+    System.out.println("Você infelizmente foi reprovado!!");
 
         
     }
